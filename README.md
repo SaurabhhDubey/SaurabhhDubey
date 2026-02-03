@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhhdubey" alt="saurabhhdubey" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK PROJECTS**
+- 🔭 I’m currently working on **FULL STACK PROJECTS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
